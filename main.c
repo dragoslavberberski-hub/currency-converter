@@ -17,6 +17,7 @@ int main() {
     printf("3. Funti (GBP)\n");
     printf("4. Švajcarski franak (CHF)\n");
     printf("5. Britanska funta (GBP)\n");
+printf("**************************\n"); // Odvajanje menija
 
     printf("Vas izbor: ");
     scanf("%d", &izbor);
