@@ -13,7 +13,7 @@ int main() {
     printf("2. Dolari (USD)\n");
     printf("3. Funti (GBP)\n");
     printf("4. Švajcarski franak (CHF)\n");
-
+printf("***********************");
     printf("Vas izbor: ");
     scanf("%d", &izbor);
 
